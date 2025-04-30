@@ -1,11 +1,16 @@
 _repo: Eramaan-profeetta-b-Historiallinen-elamakerrallinen-romaani_75903
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oravala, Aukusti
     gutenberg_agent_id: '58210'
     url: http://www.gutenberg.org/2009/agents/58210
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75903#Eramaan-profeetta-b-Historiallinen-elamakerrallinen-romaani
 gutenberg_issued: '2025-04-18'
 gutenberg_type: Text
 identifiers:
